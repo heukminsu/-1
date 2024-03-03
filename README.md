@@ -10,7 +10,7 @@ Licensing information can be found in [LICENSE.md](https://github.com/timhul/Cla
 
 # Downloads
 
-Releases are available at [the ClassicSim website](https://classicsim.org/?C=M;O=D).
+Releases are available [under Releases](https://github.com/timhul/ClassicSim/releases).
 
 # Features of this tool
 
